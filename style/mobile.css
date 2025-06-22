@@ -103,10 +103,18 @@ h1 {
     top: 10px;
 }
 
+.greg {
+    height: 70px;
+    background-image: url(../assets/images/image-avatar.webp);
+    background-repeat: no-repeat;
+    background-size: ;
+    
+}
+
 .attribution {
     color: var(--Gray500);
     font-size: 1em;
 
     position: relative;
-    top: 45px;
+    top: 35px;
 }
